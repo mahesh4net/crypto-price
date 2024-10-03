@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcrypto_price=self.webpackChunkcrypto_price||[]).push([[96879],{96879:(l,r,e)=>{e.r(r),e.d(r,{default:()=>t});var a=e(82147),c=e(65043),f=e(70579),p=(0,c.forwardRef)(((l,r)=>{let{fallback:e,...c}=l;return(0,f.jsx)(a.h,{fallback:e,...c,ref:r,children:(0,f.jsx)("path",{fill:"currentColor",d:"m3 17.5-1-1.06 1.04-.94H9.5l-5-5V9H6l5 5.115V7.5l1-1 1 1v6.615L18 9h1.5v1.5l-5 5H21l1 1-1 1h-7.5L12 16l-1.5 1.5z"})})}));p.displayName="QUARTZ";var t=p}}]);
+//# sourceMappingURL=96879.66fc5d08.chunk.js.map
